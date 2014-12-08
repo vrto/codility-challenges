@@ -1,4 +1,4 @@
-package sk.vrto.lesson01.tapeequilibrium;
+package sk.vrto.lesson01;
 
 import org.junit.Test;
 
