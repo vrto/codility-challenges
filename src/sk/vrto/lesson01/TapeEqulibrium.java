@@ -45,8 +45,6 @@ public class TapeEqulibrium {
         return sum;
     }
 
-    // ========================================== tests ==========================================
-
     @Test
     public void givenCase() {
         assertThat(solution(new int[] {3, 1, 2, 4, 3}), is(1));
